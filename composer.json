@@ -15,6 +15,6 @@
         "yiisoft/yii2": "*"
     },
     "autoload": {
-        "psr-4": { "miuhr\\qiniu\\": "" }
+        "psr-4": { "crazyfd\\qiniu\\": "" }
     }
 }
