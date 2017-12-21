@@ -1,4 +1,8 @@
-yii2-qiniu
+# yii2-qiniu
+
+[![Latest Version on Packagist][ico-version]][link-packagist]
+[![Total Downloads][ico-downloads]][link-downloads]
+
 =================================
 * @author crazyfd <crazyfd@qq.com>
 
@@ -33,3 +37,9 @@ $key = time();
 $qiniu->uploadFile($_FILES['tmp_name'],$key);
 $url = $qiniu->getLink($key);
 ```
+
+[ico-version]: https://img.shields.io/packagist/v/miuhr/yii2-qiniu.svg
+[link-packagist]: https://packagist.org/packages/miuhr/yii2-qiniu
+
+[ico-downloads]: https://img.shields.io/packagist/dt/miuhr/yii2-qiniu.svg
+[link-downloads]: https://packagist.org/packages/miuhr/yii2-qiniu
