@@ -13,7 +13,7 @@ To use this extension, you may insert the following code:
 Get it via [composer](http://getcomposer.org/) by adding the package to your `composer.json`:
 
 ```shell
-composer require crazyfd/yii2-qiniu
+composer require miuhr/yii2-qiniu
 ```
 
 Usage
