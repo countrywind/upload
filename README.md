@@ -2,6 +2,8 @@ yii2-qiniu
 =================================
 * @author crazyfd <crazyfd@qq.com>
 
+> 只是因为原作者没有发布正式版本，造成了在生产环境使用困难，所以fork一份自己发布成正式版
+
 file upload for Yii Framework 2
 
 php > 5.5 
