@@ -1,7 +1,6 @@
 yii2-qiniu
 =================================
 * @author crazyfd <crazyfd@qq.com>
-* @version 1.0
 
 file upload for Yii Framework 2
 
@@ -13,15 +12,8 @@ To use this extension, you may insert the following code:
 
 Get it via [composer](http://getcomposer.org/) by adding the package to your `composer.json`:
 
-```json
-{
-  "require": {
-    "crazyfd/yii2-qiniu": "dev-master"
-  }
-}
-```
-```php
-php composer.phar update
+```shell
+composer require crazyfd/yii2-qiniu
 ```
 
 Usage
