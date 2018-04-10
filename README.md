@@ -1,7 +1,8 @@
 # yii2-qiniu
 
-[![Latest Version on Packagist][ico-version]][link-packagist]
-[![Total Downloads][ico-downloads]][link-downloads]
+[![Latest Stable Version](https://poser.pugx.org/miuhr/yii2-qiniu/v/stable)](https://packagist.org/packages/miuhr/yii2-qiniu)
+[![Total Downloads](https://poser.pugx.org/miuhr/yii2-qiniu/downloads)](https://packagist.org/packages/miuhr/yii2-qiniu)
+[![License](https://poser.pugx.org/miuhr/yii2-qiniu/license)](https://packagist.org/packages/miuhr/yii2-qiniu)
 
 =================================
 * @author crazyfd <crazyfd@qq.com>
